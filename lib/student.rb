@@ -1,5 +1,4 @@
-
-class Student < User
+class Student 
 
   attr_accessor :knowledge
 
