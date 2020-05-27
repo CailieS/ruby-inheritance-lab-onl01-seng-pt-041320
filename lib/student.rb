@@ -1,6 +1,7 @@
 class Student 
 
-  attr_accessor :knowledge, :user
+  attr_accessor :knowledge, 
+  require _relative 
 
   def initialize
     @knowledge = []
